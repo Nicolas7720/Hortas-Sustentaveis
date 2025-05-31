@@ -1,0 +1,107 @@
+[
+  {
+    "nome": "Alface",
+    "descricao": "Rica em fibras e fácil de cultivar. Ideal para hortas escolares.",
+    "soloRecomendado": "Solo Humoso",
+    "beneficios": "Ajuda na digestão, tem efeito calmante e é rica em vitaminas A e C.",
+    "imagem": "/assets/alface.jpg"
+  },
+  {
+    "nome": "Cenoura",
+    "descricao": "Raiz nutritiva. Requer solos leves e profundos para se desenvolver bem.",
+    "soloRecomendado": "Solo Arenoso",
+    "beneficios": "Fonte de betacaroteno (vitamina A), boa para a visão e pele.",
+    "imagem": "/assets/cenoura.jpg"
+  },
+  {
+    "nome": "Tomate",
+    "descricao": "Muito usado na alimentação escolar. Precisa de boa exposição ao sol.",
+    "soloRecomendado": "Solo Argiloso",
+    "beneficios": "Rico em licopeno, antioxidante que protege contra doenças cardíacas e câncer.",
+    "imagem": "/assets/tomate.jpg"
+  },
+  {
+    "nome": "Cebolinha",
+    "descricao": "Temperinho prático e resistente. Cresce rápido.",
+    "soloRecomendado": "Solo Humoso",
+    "beneficios": "Possui propriedades anti-inflamatórias e auxilia na digestão.",
+    "imagem": "/assets/cebolinha.jpg"
+  },
+  {
+    "nome": "Coentro",
+    "descricao": "Muito usado na culinária brasileira. Fácil de cultivar.",
+    "soloRecomendado": "Solo Silicoso",
+    "beneficios": "Ajuda na digestão, combate o inchaço e tem ação antioxidante.",
+    "imagem": "/assets/coentro.jpg"
+  },
+  {
+    "nome": "Manjericão",
+    "descricao": "Excelente para atrair polinizadores. Cresce bem em vasos.",
+    "soloRecomendado": "Solo Humoso",
+    "beneficios": "Fortalece o sistema imunológico e tem efeito calmante.",
+    "imagem": "/assets/manjericao.jpg"
+  },
+  {
+    "nome": "Rabanete",
+    "descricao": "Rápido crescimento e ideal para atividades educativas.",
+    "soloRecomendado": "Solo Silicoso",
+    "beneficios": "Ajuda na digestão e é rico em vitamina C.",
+    "imagem": "/assets/rabanete.jpg"
+  },
+  {
+    "nome": "Espinafre",
+    "descricao": "Rico em ferro. Ideal para alimentação saudável.",
+    "soloRecomendado": "Solo Humoso",
+    "beneficios": "Fortalece ossos e músculos, e previne a anemia.",
+    "imagem": "/assets/espinafre.jpg"
+  },
+  {
+    "nome": "Beterraba",
+    "descricao": "Colorida, doce e nutritiva. Ideal para incentivar crianças.",
+    "soloRecomendado": "Solo Humoso",
+    "beneficios": "Melhora a circulação sanguínea e é rica em antioxidantes.",
+    "imagem": "/assets/beterraba.jpg"
+  },
+  {
+    "nome": "Salsa (Salsinha)",
+    "descricao": "Muito usada em temperos. Fácil cultivo.",
+    "soloRecomendado": "Solo Humoso",
+    "beneficios": "Fonte de ferro, ajuda a eliminar toxinas e fortalece a imunidade.",
+    "imagem": "/assets/salsa.jpg"
+  },
+  {
+    "nome": "Alho",
+    "descricao": "Hortaliça do tipo bulbo muito usada na culinária e na medicina popular.",
+    "soloRecomendado": "Solo Calcário",
+    "beneficios": "Fortalece o sistema imunológico, possui ação antibiótica natural e ajuda na circulação sanguínea.",
+    "imagem": "/assets/alho.jpg"
+  },
+  {
+    "nome": "Cebola",
+    "descricao": "Bulbo amplamente utilizado em pratos brasileiros, com fácil cultivo em diversas regiões.",
+    "soloRecomendado": "Solo Calcário",
+    "beneficios": "Auxilia no controle da pressão arterial, tem ação anti-inflamatória e antioxidante.",
+    "imagem": "/assets/cebola.jpg"
+  },
+  {
+    "nome": "Abobrinha",
+    "descricao": "Hortaliça de rápido crescimento, ótima para espaços maiores.",
+    "soloRecomendado": "Solo Humoso",
+    "beneficios": "Rica em fibras, vitamina A e baixa em calorias. Boa para o sistema digestivo.",
+    "imagem": "/assets/abobrinha.jpg"
+  },
+  {
+    "nome": "Repolho",
+    "descricao": "Vegetal folhoso muito nutritivo e resistente ao frio.",
+    "soloRecomendado": "Solo Argiloso",
+    "beneficios": "Fonte de vitamina C, ajuda na digestão e tem propriedades anti-inflamatórias.",
+    "imagem": "/assets/repolho.jpg"
+  },
+  {
+    "nome": "Pepino",
+    "descricao": "Hortaliça refrescante e muito usada em saladas e sucos detox.",
+    "soloRecomendado": "Solo Arenoso",
+    "beneficios": "Hidrata, ajuda na digestão e é rico em antioxidantes.",
+    "imagem": "/assets/pepino.jpg"
+  }
+]
