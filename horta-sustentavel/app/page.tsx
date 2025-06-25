@@ -1,11 +1,9 @@
-import Card from "./components/card";
+import Sementes from "./components/sementes";
 
 export default function Home() {
   return (
     <>
-      <main className="max-w-full flex flex-col justify-center items-center h-dvh">
-        <Card />
-      </main>
+      <Sementes />
     </>
   );
 }

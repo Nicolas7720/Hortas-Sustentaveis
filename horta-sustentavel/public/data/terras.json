@@ -1,0 +1,57 @@
+[
+  {
+    "nome": "Solo Argiloso",
+    "descricao": "Solo composto por partículas finas, que retêm bastante água.",
+    "caracteristicas": "É pesado, denso, com baixa drenagem, ideal para plantas que exigem umidade constante.",
+    "hortalicasIndicadas": [
+      { "nome": "Tomate", "cor": "text-red-600" },
+      { "nome": "Repolho", "cor": "text-green-600" }
+    ],
+    "imagem": "/Solo-argiloso.jpeg"
+  },
+  {
+    "nome": "Solo Arenoso",
+    "descricao": "Solo leve, com grãos grandes e pouca retenção de água.",
+    "caracteristicas": "Bem drenado, fácil de manusear, ideal para raízes profundas como cenoura e batata.",
+    "hortalicasIndicadas": [
+      { "nome": "Cenoura", "cor": "text-orange-400" },
+      { "nome": "Pepino", "cor": "text-green-500" }
+    ],
+    "imagem": "/solo-arenoso.jpeg"
+  },
+  {
+    "nome": "Solo Humoso",
+    "descricao": "Solo escuro e fértil, rico em matéria orgânica (húmus).",
+    "caracteristicas": "Muito fértil, ideal para a maioria das hortaliças e flores.",
+    "hortalicasIndicadas": [
+      { "nome": "Alface", "cor": "text-green-500" },
+      { "nome": "Beterraba", "cor": "text-rose-700" },
+      { "nome": "Espinafre", "cor": "text-green-500" },
+      { "nome": "Salsa (Salsinha)", "cor": "text-green-500" },
+      { "nome": "Cebolinha", "cor": "text-lime-400" },
+      { "nome": "Manjericão", "cor": "text-green-600" },
+      { "nome": "Abobrinha", "cor": "text-green-300" }
+    ],
+    "imagem": "/Solo-humoso.jpg"
+  },
+  {
+    "nome": "Solo Calcário",
+    "descricao": "Solo claro, alcalino e com presença de calcário.",
+    "caracteristicas": "Indicado para plantas que gostam de pH mais alto, mas exige correções para muitas culturas.",
+    "hortalicasIndicadas": [
+      { "nome": "Cebola", "cor": "text-amber-500" },
+      { "nome": "Alho", "cor": "text-rose-300" }
+    ],
+    "imagem": "/solo-calcario.jpeg"
+  },
+  {
+    "nome": "Solo Silicoso",
+    "descricao": "Solo arenoso com presença de sílica.",
+    "caracteristicas": "Pobre em nutrientes e com baixa capacidade de retenção de água. Pode ser corrigido com adubos.",
+    "hortalicasIndicadas": [
+      { "nome": "Coentro", "cor": "text-lime-600" },
+      { "nome": "Rabanete", "cor": "text-pink-600" }
+    ],
+    "imagem": "/solo-silicoso.png"
+  }
+]

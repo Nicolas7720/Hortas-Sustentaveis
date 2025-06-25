@@ -4,104 +4,119 @@
     "descricao": "Rica em fibras e fácil de cultivar. Ideal para hortas escolares.",
     "soloRecomendado": "Solo Humoso",
     "beneficios": "Ajuda na digestão, tem efeito calmante e é rica em vitaminas A e C.",
-    "imagem": "/assets/alface.jpg"
+    "imagem": "/alface.jpeg",
+    "cor": "text-green-500"
   },
   {
     "nome": "Cenoura",
     "descricao": "Raiz nutritiva. Requer solos leves e profundos para se desenvolver bem.",
     "soloRecomendado": "Solo Arenoso",
     "beneficios": "Fonte de betacaroteno (vitamina A), boa para a visão e pele.",
-    "imagem": "/assets/cenoura.jpg"
+    "imagem": "/Cenoura.jpg",
+    "cor": "text-orange-400"
   },
   {
     "nome": "Tomate",
     "descricao": "Muito usado na alimentação escolar. Precisa de boa exposição ao sol.",
     "soloRecomendado": "Solo Argiloso",
     "beneficios": "Rico em licopeno, antioxidante que protege contra doenças cardíacas e câncer.",
-    "imagem": "/assets/tomate.jpg"
+    "imagem": "/Tomate.jpg",
+    "cor": "text-red-600"
   },
   {
     "nome": "Cebolinha",
     "descricao": "Temperinho prático e resistente. Cresce rápido.",
     "soloRecomendado": "Solo Humoso",
     "beneficios": "Possui propriedades anti-inflamatórias e auxilia na digestão.",
-    "imagem": "/assets/cebolinha.jpg"
+    "imagem": "/cebolinha.jpeg",
+    "cor": "text-lime-400"
   },
   {
     "nome": "Coentro",
     "descricao": "Muito usado na culinária brasileira. Fácil de cultivar.",
     "soloRecomendado": "Solo Silicoso",
     "beneficios": "Ajuda na digestão, combate o inchaço e tem ação antioxidante.",
-    "imagem": "/assets/coentro.jpg"
+    "imagem": "/coentro.jpeg",
+    "cor": "text-lime-600"
   },
   {
     "nome": "Manjericão",
     "descricao": "Excelente para atrair polinizadores. Cresce bem em vasos.",
     "soloRecomendado": "Solo Humoso",
     "beneficios": "Fortalece o sistema imunológico e tem efeito calmante.",
-    "imagem": "/assets/manjericao.jpg"
+    "imagem": "/Manjericão.jpeg",
+    "cor": "text-green-600"
   },
   {
     "nome": "Rabanete",
     "descricao": "Rápido crescimento e ideal para atividades educativas.",
     "soloRecomendado": "Solo Silicoso",
     "beneficios": "Ajuda na digestão e é rico em vitamina C.",
-    "imagem": "/assets/rabanete.jpg"
+    "imagem": "/Rabanete.jpeg",
+    "cor": "text-pink-600"
   },
   {
     "nome": "Espinafre",
     "descricao": "Rico em ferro. Ideal para alimentação saudável.",
     "soloRecomendado": "Solo Humoso",
     "beneficios": "Fortalece ossos e músculos, e previne a anemia.",
-    "imagem": "/assets/espinafre.jpg"
+    "imagem": "/Espinafre.jpeg",
+    "cor": "text-green-500"
   },
   {
     "nome": "Beterraba",
     "descricao": "Colorida, doce e nutritiva. Ideal para incentivar crianças.",
     "soloRecomendado": "Solo Humoso",
     "beneficios": "Melhora a circulação sanguínea e é rica em antioxidantes.",
-    "imagem": "/assets/beterraba.jpg"
+    "imagem": "/beterraba.jpeg",
+    "cor": "text-rose-700"
   },
   {
     "nome": "Salsa (Salsinha)",
     "descricao": "Muito usada em temperos. Fácil cultivo.",
     "soloRecomendado": "Solo Humoso",
     "beneficios": "Fonte de ferro, ajuda a eliminar toxinas e fortalece a imunidade.",
-    "imagem": "/assets/salsa.jpg"
+    "imagem": "/salsinha.jpeg",
+    "cor": "text-green-500"
   },
   {
     "nome": "Alho",
     "descricao": "Hortaliça do tipo bulbo muito usada na culinária e na medicina popular.",
     "soloRecomendado": "Solo Calcário",
     "beneficios": "Fortalece o sistema imunológico, possui ação antibiótica natural e ajuda na circulação sanguínea.",
-    "imagem": "/assets/alho.jpg"
+    "imagem": "/alho.jpeg",
+    "cor": "text-rose-300"
   },
   {
     "nome": "Cebola",
     "descricao": "Bulbo amplamente utilizado em pratos brasileiros, com fácil cultivo em diversas regiões.",
     "soloRecomendado": "Solo Calcário",
     "beneficios": "Auxilia no controle da pressão arterial, tem ação anti-inflamatória e antioxidante.",
-    "imagem": "/assets/cebola.jpg"
+    "imagem": "/cebola.jpeg",
+    "cor": "text-amber-500"
   },
   {
     "nome": "Abobrinha",
     "descricao": "Hortaliça de rápido crescimento, ótima para espaços maiores.",
     "soloRecomendado": "Solo Humoso",
     "beneficios": "Rica em fibras, vitamina A e baixa em calorias. Boa para o sistema digestivo.",
-    "imagem": "/assets/abobrinha.jpg"
+    "imagem": "/abobrinha.jpeg",
+    "cor": "text-green-300"
   },
   {
     "nome": "Repolho",
     "descricao": "Vegetal folhoso muito nutritivo e resistente ao frio.",
     "soloRecomendado": "Solo Argiloso",
     "beneficios": "Fonte de vitamina C, ajuda na digestão e tem propriedades anti-inflamatórias.",
-    "imagem": "/assets/repolho.jpg"
+    "imagem": "/repolhoVerde.jpeg",
+    "cor": "text-green-600"
   },
   {
     "nome": "Pepino",
     "descricao": "Hortaliça refrescante e muito usada em saladas e sucos detox.",
     "soloRecomendado": "Solo Arenoso",
     "beneficios": "Hidrata, ajuda na digestão e é rico em antioxidantes.",
-    "imagem": "/assets/pepino.jpg"
+    "imagem": "/pepino.jpeg",
+    "cor": "text-green-500"
   }
 ]
