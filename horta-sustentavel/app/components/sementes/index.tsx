@@ -29,7 +29,7 @@ export default function Sementes() {
   return (
     <>
       <main className="max-w-full flex flex-col justify-center items-center h-full py-5 dark:bg-gradient-to-r dark:bg-gray-900 not-dark:bg-white flex-wrap p-2">
-        <div className="min-h-40 sm:w-[calc(100%-200px)] xl:w-[calc(100%-400px)] p-4 bg-green-600 mb-5 rounded-4xl flex items-center flex-col border-4 border-green-500 hover:bg-gray-900 transition ease-in-out duration-500 delay-150 hover:shadow-sky-200 hover:shadow-xl">
+        <div className="min-h-40 sm:w-[calc(100%-200px)] xl:w-[calc(100%-400px)] p-4 bg-green-600 mb-5 rounded-4xl flex items-center flex-col border-4 border-green-500 hover:bg-gray-900 transition ease-in-out duration-500 delay-150 hover:shadow-sky-100 hover:shadow-xl">
           <h1 className="text-3xl font-bold mb-4 text-center">
             Catálogo de Hortaliças
           </h1>

@@ -54,7 +54,7 @@ const Terra = () => {
   return (
     <>
       <main className="max-w-full flex flex-col justify-center items-center h-full py-5 dark:bg-gray-900">
-        <div className="min-h-40 sm:w-[calc(100%-200px)] xl:w-[calc(100%-400px)] p-6 py-8 bg-stone-600 mb-5 rounded-4xl flex items-center flex-col hover:bg-gray-900 transition delay-300 ease-in-out duration-500 border-6 border-stone-800 hover:shadow-gray-300 hover:shadow-xl">
+        <div className="min-h-40 sm:w-[calc(100%-200px)] xl:w-[calc(100%-400px)] p-6 py-8 bg-stone-600 mb-5 rounded-4xl flex items-center flex-col hover:bg-gray-900 transition delay-300 ease-in-out duration-500 border-6 border-stone-700 hover:shadow-gray-300 hover:shadow-xl">
           <h1 className="text-3xl font-bold mb-4 text-center">
             Catálogo de Solos e Hortaliças
           </h1>
