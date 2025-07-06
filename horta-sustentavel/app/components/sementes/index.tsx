@@ -28,8 +28,8 @@ export default function Sementes() {
   );
   return (
     <>
-      <main className="max-w-full flex flex-col justify-center items-center h-full py-5 dark:bg-gradient-to-r dark:from-green-400 dark:to-emerald-800 dark:text-white not-dark:text-black not-dark:bg-white flex-wrap p-2">
-        <div className="min-h-40 sm:w-[calc(100%-200px)] xl:w-[calc(100%-400px)] p-4 bg-green-600 mb-5 rounded-4xl flex items-center flex-col">
+      <main className="max-w-full flex flex-col justify-center items-center h-full py-5 dark:bg-gradient-to-r dark:bg-gray-900 not-dark:bg-white flex-wrap p-2">
+        <div className="min-h-40 sm:w-[calc(100%-200px)] xl:w-[calc(100%-400px)] p-4 bg-green-600 mb-5 rounded-4xl flex items-center flex-col border-4 border-green-500 hover:bg-gray-900 transition ease-in-out duration-500 delay-150 hover:shadow-sky-200 hover:shadow-xl">
           <h1 className="text-3xl font-bold mb-4 text-center">
             Catálogo de Hortaliças
           </h1>
@@ -38,7 +38,7 @@ export default function Sementes() {
             placeholder="Buscar por nome..."
             value={busca}
             onChange={(e) => setBusca(e.target.value)}
-            className="border-2 border-white rounded-md w-auto px-3 py-1 shadow-sm shadow-green-900 focus:outline-none focus:ring-1 focus:ring-green-00"
+            className="border-2 border-white rounded-md w-auto px-3 py-1 shadow-sm shadow-green-900 focus:outline-none focus:ring-4 focus:ring-green-800 focus:border-none"
           />
         </div>
         <Card.Root>
@@ -63,19 +63,19 @@ export default function Sementes() {
                   </Card.Heading>
                   <Card.Text>{sem.soloRecomendado}</Card.Text>
                 </div>
-                <div className="m-0 flex justify-center items-center gap-2">
+                <div className="flex justify-center items-center gap-2">
                   <Card.Heading className="text-indigo-300 text-shadow-indigo-800 w-auto">
                     Período Recomendado:
                   </Card.Heading>
                   <Card.Text>{sem.periodoPlantio}</Card.Text>
                 </div>
-                <div className="m-0 flex justify-center items-center gap-2">
-                  <Card.Heading className="text-emerald-600 text-shadow-emerald-800 w-full">
+                <div className="flex flex-col justify-center items-center gap-2">
+                  <Card.Heading className="text-emerald-600 text-shadow-emerald-800">
                     Forma de Plantio:
                   </Card.Heading>
                   <Card.Text>{sem.formaPlantio}</Card.Text>
                 </div>
-                <div className="m-0 flex justify-center items-center gap-2">
+                <div className="flex justify-center items-center gap-2">
                   <Card.Heading className="text-sky-300 text-shadow-skye-800">
                     Tempo de crescimento:
                   </Card.Heading>

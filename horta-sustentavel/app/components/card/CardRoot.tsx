@@ -6,7 +6,7 @@ type CardRootProps = {
 
 const CardRoot = ({ children }: CardRootProps) => {
   return (
-    <section className="flex gap-4 flex-wrap justify-center items-center p-2">
+    <section className="flex gap-6 flex-wrap justify-center items-center p-2">
       {children}
     </section>
   );

@@ -3,7 +3,7 @@ import React from "react";
 
 const Header = () => {
   return (
-    <header className="bg-green-700 p-5 w-full h-15 flex items-center">
+    <header className="bg-green-700 p-5 w-full h-20 flex items-center">
       <nav className="text-white flex">
         <Link href="/" className="text-lg hover:text-zinc-600 hover:font-bold">
           Sementes
