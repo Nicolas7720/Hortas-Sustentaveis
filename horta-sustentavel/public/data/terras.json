@@ -7,7 +7,7 @@
       { "nome": "Tomate", "cor": "text-red-600" },
       { "nome": "Repolho", "cor": "text-green-600" }
     ],
-    "imagem": "/Solo-argiloso.jpeg"
+    "imagem": "/solo-argiloso.png"
   },
   {
     "nome": "Solo Arenoso",
@@ -17,7 +17,7 @@
       { "nome": "Cenoura", "cor": "text-orange-400" },
       { "nome": "Pepino", "cor": "text-green-500" }
     ],
-    "imagem": "/solo-arenoso.jpeg"
+    "imagem": "/Solo-arenoso.png"
   },
   {
     "nome": "Solo Humoso",
@@ -32,7 +32,7 @@
       { "nome": "Manjericão", "cor": "text-green-600" },
       { "nome": "Abobrinha", "cor": "text-green-300" }
     ],
-    "imagem": "/Solo-humoso.jpg"
+    "imagem": "/Solo-humoso.png"
   },
   {
     "nome": "Solo Calcário",
@@ -52,6 +52,6 @@
       { "nome": "Coentro", "cor": "text-lime-600" },
       { "nome": "Rabanete", "cor": "text-pink-600" }
     ],
-    "imagem": "/solo-silicoso.png"
+    "imagem": "/solo-Silicoso.png"
   }
 ]

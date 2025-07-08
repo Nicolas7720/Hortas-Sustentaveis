@@ -18,7 +18,7 @@ export default function Sementes() {
   const [sementes, setSementes] = useState<sementes[]>([]);
   const [busca, setBusca] = useState("");
   useEffect(() => {
-    fetch("/sementes.json")
+    fetch("/data/sementes.json")
       .then((res) => res.json())
       .then((json) => setSementes(json))
       .catch((error) => `ocorreu um em: ${error}`);
@@ -29,8 +29,8 @@ export default function Sementes() {
   return (
     <>
       <main className="max-w-full flex flex-col justify-center items-center h-full py-5 dark:bg-gradient-to-r dark:bg-gray-900 not-dark:bg-white flex-wrap p-2">
-        <div className="min-h-40 sm:w-[calc(100%-200px)] xl:w-[calc(100%-400px)] p-4 bg-green-600 mb-5 rounded-4xl flex items-center flex-col border-4 border-green-500 hover:bg-gray-900 transition ease-in-out duration-500 delay-150 hover:shadow-sky-100 hover:shadow-xl">
-          <h1 className="text-3xl font-bold mb-4 text-center">
+        <div className="min-h-40 sm:w-[calc(100%-200px)] xl:w-[calc(100%-400px)] p-4 bg-green-600 mb-5 rounded-4xl flex items-center flex-col border-4 border-green-500 hover:bg-gray-900 transition ease-in-out duration-500 delay-150 hover:shadow-sky-100 hover:shadow-lg">
+          <h1 className="text-2xl font-bold mb-4 text-center">
             Catálogo de Hortaliças
           </h1>
           <input
@@ -57,7 +57,7 @@ export default function Sementes() {
                     {sem.descricao}
                   </Card.Text>
                 </div>
-                <div className="flex justify-center items-center gap-2">
+                <div className="flex justify-center items-center gap-2 mx-20">
                   <Card.Heading className="text-stone-500 text-shadow-stone-800">
                     Solo Recomendado:
                   </Card.Heading>
@@ -71,9 +71,11 @@ export default function Sementes() {
                 </div>
                 <div className="flex flex-col justify-center items-center gap-2">
                   <Card.Heading className="text-emerald-600 text-shadow-emerald-800">
-                    Forma de Plantio:
+                    Como Plantar:
                   </Card.Heading>
-                  <Card.Text>{sem.formaPlantio}</Card.Text>
+                  <Card.Text className="mx-5 text-justify">
+                    {sem.formaPlantio}
+                  </Card.Text>
                 </div>
                 <div className="flex justify-center items-center gap-2">
                   <Card.Heading className="text-sky-300 text-shadow-skye-800">

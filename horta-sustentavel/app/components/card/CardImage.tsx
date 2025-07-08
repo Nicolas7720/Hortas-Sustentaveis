@@ -11,9 +11,9 @@ const CardImage = ({ src, alt }: CardImageProps) => {
       <Image
         src={src}
         alt={`Imagem da ${alt}`}
-        width={180}
+        width={160}
         height={30}
-        className="pb-2"
+        className="pb-2 w-full h-90 object-cover"
       />
     </div>
   );

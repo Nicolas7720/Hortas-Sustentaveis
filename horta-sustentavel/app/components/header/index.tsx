@@ -10,12 +10,15 @@ const Header = () => {
         <p className="text-gray-900 text-lg">PlantaFácil</p>
       </div>
       <nav className="text-white flex">
-        <Link href="/" className="text-lg hover:text-zinc-600 hover:font-bold">
+        <Link
+          href="/"
+          className="text-lg hover:text-shadow-green-950 hover:text-shadow-lg"
+        >
           Sementes
         </Link>
         <Link
           href="/terra"
-          className="pl-5 text-white hover:text-stone-700 hover:font-bold text-lg"
+          className="pl-5 text-white hover:text-shadow-green-950 hover:text-shadow-lg hover:font-bold text-lg"
         >
           Terras
         </Link>

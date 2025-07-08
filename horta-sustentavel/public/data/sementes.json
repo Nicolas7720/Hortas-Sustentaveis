@@ -7,7 +7,7 @@
     "imagem": "/alface.jpeg",
     "cor": "text-green-500",
     "periodoPlantio": "Ano Todo, com preferência entre Março e Agosto",
-    "formaPlantio": "Plantio por sementes direto na terra ou em sementeiras. Transplantar quando as mudas tiverem de 4 a 6 folhas. Espaçamento: 30x30 cm. Profundidade: 0,5 cm",
+    "formaPlantio": "Faça covas de 30 cm de profundidade, adicione adubo orgânico e plante as mudas com espaçamento de 30x30 cm. Regue diariamente.",
     "tempoCrescimento": "45 a 60 dias"
   },
   {
@@ -18,7 +18,7 @@
     "imagem": "/Cenoura.jpg",
     "cor": "text-orange-400",
     "periodoPlantio": "Março a Julho",
-    "formaPlantio": "Plantio por sementes direto por sementes no local definitivo. Não transplante. Espaçamento: 20x10 cm. Profundidade: 1 cm",
+    "formaPlantio": "Semeie diretamente no solo solto e profundo, com espaçamento de 20x10 cm e 1 cm de profundidade. Regue com frequência e evite encharcar.",
     "tempoCrescimento": "70 a 100 dias"
   },
   {
@@ -26,10 +26,10 @@
     "descricao": "Muito usado na alimentação escolar. Precisa de boa exposição ao sol.",
     "soloRecomendado": "Solo Argiloso",
     "beneficios": "Rico em licopeno, antioxidante que protege contra doenças cardíacas e câncer.",
-    "imagem": "/Tomate.jpg",
+    "imagem": "/tomate.jpg",
     "cor": "text-red-600",
     "periodoPlantio": "Agosto a Outubro",
-    "formaPlantio": "Plantar em sementeiras e transplantar após 4 semanas. Necessita de tutoramento (estacas ou fios). Espaçamento: 50x60 cm. Profundidade: 1 cm",
+    "formaPlantio": "Semeie em sementeiras e transplante após 4 semanas. Plante em covas adubadas com espaçamento de 50x60 cm. Use tutor (estaca ou barbante) e regue diariamente.",
     "tempoCrescimento": "90 a 120 dias"
   },
   {
@@ -40,7 +40,7 @@
     "imagem": "/cebolinha.jpeg",
     "cor": "text-lime-400",
     "periodoPlantio": "Ano Todo",
-    "formaPlantio": "Pode ser feita por sementes ou divisão de touceiras (conjunto de caules ou raizes). Espaçamento: 20x20 cm. Profundidade: 1 cm",
+    "formaPlantio": "Semeie diretamente ou divida touceiras (conjunto de caule ou raizes) em solo fértil, mantendo 1 cm de profundidade e espaçamento de 20x20 cm. Regue com frequência.",
     "tempoCrescimento": "60 a 90 dias"
   },
   {
@@ -51,7 +51,7 @@
     "imagem": "/coentro.jpeg",
     "cor": "text-lime-600",
     "periodoPlantio": "Fevereiro a Agosto",
-    "formaPlantio": "Plantio por sementes direto no solo ou em sementeiras. Pode fazer sulcos rasos (Vala ou caminho para fazer plantio). Espaçamento: 20x10 cm. Profundidade: 1 cm",
+    "formaPlantio": "Semeie diretamente no solo em sulcos rasos (valas ou caminhos para fazer plantio), com espaçamento de 20x10 cm e profundidade de 1 cm. Regue regularmente.",
     "tempoCrescimento": "30 a 50 dias"
   },
   {
@@ -62,7 +62,7 @@
     "imagem": "/Manjericão.jpeg",
     "cor": "text-green-600",
     "periodoPlantio": "Agosto a Fevereiro",
-    "formaPlantio": "Plantio por sementes direto ou por mudas. Transplantar quando tiver 4 folhas. Espaçamento: 30x30 cm. Profundidade: 0,5 cm",
+    "formaPlantio": "Semeie direto ou em sementeiras, transplantando ao atingir 4 folhas. Plante em covas rasas com 30x30 cm de espaçamento. Regue diariamente.",
     "tempoCrescimento": "60 a 90 dias"
   },
   {
@@ -73,7 +73,7 @@
     "imagem": "/Rabanete.jpeg",
     "cor": "text-pink-600",
     "periodoPlantio": "Ano Todo, com preferência entre Março e Julho",
-    "formaPlantio": "Plantio direto por sementes. Evite transplantar. Espaçamento: 20x10 cm. Profundidade: 1 cm",
+    "formaPlantio": "Semeie diretamente no solo a 1 cm de profundidade com espaçamento de 20x10 cm. Regue com frequência, especialmente nos primeiros dias.",
     "tempoCrescimento": "25 a 40 dias"
   },
   {
@@ -84,7 +84,7 @@
     "imagem": "/Espinafre.jpeg",
     "cor": "text-green-500",
     "periodoPlantio": "Fevereiro a Julho",
-    "formaPlantio": "Plantio direto por sementes. Evite transplantar. Espaçamento: 25x25 cm. Profundidade: 1 a 2 cm",
+    "formaPlantio": "Plante as sementes diretamente no solo fértil, com 1 a 2 cm de profundidade e 25x25 cm de espaçamento. Regue com frequência.",
     "tempoCrescimento": "40 a 60 dias"
   },
   {
@@ -95,7 +95,7 @@
     "imagem": "/beterraba.jpeg",
     "cor": "text-rose-700",
     "periodoPlantio": "Março e Junho",
-    "formaPlantio": "Plantar direto com sementes ou por mudas jovens. Espaçamento: 30x15 cm. Profundidade: 1 a 2 cm",
+    "formaPlantio": "Semeie direto ou transplante mudas jovens. Mantenha espaçamento de 30x15 cm em solo bem drenado. Regue com frequência.",
     "tempoCrescimento": "60 a 80 dias"
   },
   {
@@ -106,7 +106,7 @@
     "imagem": "/salsinha.jpeg",
     "cor": "text-green-500",
     "periodoPlantio": "Ano Todo, exceto em períodos muito quentes",
-    "formaPlantio": "Plantio direto por sementes. Germina(Quando a planta começa a sair da semente) lentamente (15 a 20 dias). Espaçamento: 20x10 cm. Profundidade: 1 cm",
+    "formaPlantio": "Semeie em solo fértil, a 1 cm de profundidade e 20x10 cm de espaçamento. Regue com paciência durante a germinação (quando a planta começa a sair da semente) lenta.",
     "tempoCrescimento": "80 a 100 dias"
   },
   {
@@ -117,7 +117,7 @@
     "imagem": "/alho.jpeg",
     "cor": "text-rose-300",
     "periodoPlantio": "Fevereiro a Maio",
-    "formaPlantio": "Plantado por dentes (ou bulbilhos) diretamente no solo. Espaçamento: 30x10 cm. Profundidade: 3 a 5 cm",
+    "formaPlantio": "Plante os dentes de alho com a ponta para cima, a 3 a 5 cm de profundidade e 30x10 cm de espaçamento. Regue com moderação.",
     "tempoCrescimento": "120 a 150 dias"
   },
   {
@@ -128,7 +128,7 @@
     "imagem": "/cebola.jpeg",
     "cor": "text-amber-500",
     "periodoPlantio": "Maio a Julho",
-    "formaPlantio": "Plantar por sementes, bulbrinhos ou mudas. Transplantar quando a muda tiver 15 cm. Espaçamento: 30x10 cm. Profundidade: 1 cm",
+    "formaPlantio": "Semeie ou plante bulbilhos diretamente no solo fértil. Transplante mudas com 15 cm. Respeite 30x10 cm de espaçamento. Regue com frequência.",
     "tempoCrescimento": "120 a 150 dias"
   },
   {
@@ -139,7 +139,7 @@
     "imagem": "/abobrinha.jpeg",
     "cor": "text-green-300",
     "periodoPlantio": "Agosto a Janeiro",
-    "formaPlantio": "Plantio direto com 2 a 3 sementes por buraco na terra. Espaçamento: 1x1 cm. Profundidade: 2 a 3 cm",
+    "formaPlantio": "Plante 2 a 3 sementes por cova a 2 a 3 cm de profundidade em solo fértil. Respeite 1 metro entre as plantas. Regue diariamente.",
     "tempoCrescimento": "45 a 65 dias"
   },
   {
@@ -150,7 +150,7 @@
     "imagem": "/repolhoVerde.jpeg",
     "cor": "text-green-600",
     "periodoPlantio": "Março a Junho",
-    "formaPlantio": "Plantar em sementeiras e transplantar com 4 a 5 folhas. Espaçamento: 50x50 cm. Profundidade: 1 cm",
+    "formaPlantio": "Semeie em sementeiras e transplante mudas com 4 a 6 folhas. Use espaçamento de 50x50 cm e regue com frequência.",
     "tempoCrescimento": "90 a 120 dias"
   },
   {
@@ -161,7 +161,7 @@
     "imagem": "/pepino.jpeg",
     "cor": "text-green-500",
     "periodoPlantio": "Agosto a Dezembro",
-    "formaPlantio": "Plantio direto por sementes. Pode usar tutoramento. Espaçamento: 1x0,5 cm. Profundidade: 2 a 3 cm",
+    "formaPlantio": "Plante diretamente as sementes a 2 a 3 cm de profundidade com espaçamento de 1 metro entre linhas. Regue com frequência.",
     "tempoCrescimento": "50 a 70 dias"
   }
 ]
