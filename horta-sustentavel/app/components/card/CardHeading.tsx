@@ -3,8 +3,9 @@ import { twMerge } from "tailwind-merge";
 
 type CardHeading = React.HTMLAttributes<HTMLHeadingElement> & {
   children: React.ReactNode;
+  text?: string;
 };
-const CardHeading = ({ children, ...rest }: CardHeading) => {
+const CardHeading = ({ children, text, ...rest }: CardHeading) => {
   return (
     <h2
       {...rest}
@@ -14,6 +15,7 @@ const CardHeading = ({ children, ...rest }: CardHeading) => {
       )}
     >
       {children}
+      <span className="text-leading-7 text-white ml-3 font-medium">{text}</span>
     </h2>
   );
 };

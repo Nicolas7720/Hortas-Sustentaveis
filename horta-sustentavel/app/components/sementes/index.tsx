@@ -53,35 +53,39 @@ export default function Sementes() {
                     {sem.nome}
                   </Card.Heading>
 
-                  <Card.Text className="text-leading-7">
-                    {sem.descricao}
-                  </Card.Text>
+                  <Card.Text>{sem.descricao}</Card.Text>
                 </div>
-                <div className="flex justify-center items-center gap-2 mx-20">
-                  <Card.Heading className="text-stone-500 text-shadow-stone-800">
+                <div className="flex gap-2">
+                  <Card.Heading
+                    text={sem.soloRecomendado}
+                    className="text-stone-500 text-shadow-stone-800"
+                  >
                     Solo Recomendado:
                   </Card.Heading>
-                  <Card.Text>{sem.soloRecomendado}</Card.Text>
                 </div>
-                <div className="flex justify-center items-center gap-2">
-                  <Card.Heading className="text-indigo-300 text-shadow-indigo-800 w-auto">
+                <div className="flex gap-2">
+                  <Card.Heading
+                    text={sem.periodoPlantio}
+                    className="text-indigo-300 text-shadow-indigo-800"
+                  >
                     Período Recomendado:
                   </Card.Heading>
-                  <Card.Text>{sem.periodoPlantio}</Card.Text>
                 </div>
-                <div className="flex flex-col justify-center items-center gap-2">
-                  <Card.Heading className="text-emerald-600 text-shadow-emerald-800">
+                <div className="flex gap-2">
+                  <Card.Heading
+                    text={sem.formaPlantio}
+                    className="text-emerald-600 text-shadow-emerald-800"
+                  >
                     Como Plantar:
                   </Card.Heading>
-                  <Card.Text className="mx-5 text-justify">
-                    {sem.formaPlantio}
-                  </Card.Text>
                 </div>
-                <div className="flex justify-center items-center gap-2">
-                  <Card.Heading className="text-sky-300 text-shadow-skye-800">
+                <div className="flex gap-2">
+                  <Card.Heading
+                    text={sem.tempoCrescimento}
+                    className="text-sky-300 text-shadow-skye-800"
+                  >
                     Tempo de crescimento:
                   </Card.Heading>
-                  <Card.Text>{sem.tempoCrescimento}</Card.Text>
                 </div>
               </Card.Div>
             ))
